@@ -1,31 +1,50 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: advancedcsg-open
+repo: platform-status
 
+# Sitelist
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Advanced
+    url: https://oneadvanced.com
+    headers:
+      - "User-Agent: Mozilla/5.0"
+  - name: POC Canary (Known Failure)
+    url:  $CANARY_URL
+    method: GET
+    headers:
+      - "User-Agent: Mozilla/5.0"
+    expectedStatusCodes:
+      - 200
+  - name: POC Canary (Known Good)
+    url: $CANARY_URL_GOOD
+    method: GET
+    headers:
+      - "X-Api-Key: $CANARY_API_KEY_GOOD"
+      - "User-Agent: Mozilla/5.0"
+    expectedStatusCodes:
+      - 200
+  - name: Identity Prod
+    url: $IDENTITY_PROD_URL
+  - name: Identity Dev
+    url: $IDENTITY_DEV_URL
+  - name: Identity QA
+    url: $IDENTITY_QA_URL
+      
+# Config
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /upptime
+  logoUrl: https://cdn.svc.oneadvanced.com/mosaic/2.0.0/img/logo.svg
+  favicon: https://www.oneadvanced.com/Static/img/icons/favicon-194x194.png
+  name: Platform Status
+  introTitle: "State of Platform Resources"
+  introMessage: "Track the live status of select platform resources, along with a response time graph and incident tracking"
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  themeUrl: https://bzncdn.net/dev/adv.css
+  
+# Suppress repository metadata updates
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
