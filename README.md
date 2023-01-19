@@ -1,3 +1,5 @@
+# [📈 Live Status](https://advancedcsg-open.github.io/platform-status): <!--live status--> **🟩 All systems operational**
+
 This repository contains the open-source uptime monitor and status page for [Advanced (open source)](https://oneadvanced.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/advancedcsg-open/platform-status/workflows/Uptime%20CI/badge.svg)](https://github.com/advancedcsg-open/platform-status/actions?query=workflow%3A%22Uptime+CI%22)
