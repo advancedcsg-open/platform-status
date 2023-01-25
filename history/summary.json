@@ -4,19 +4,19 @@
     "url": "https://oneadvanced.com",
     "icon": "https://icons.duckduckgo.com/ip3/oneadvanced.com.ico",
     "slug": "advanced",
-    "status": "up",
-    "uptime": "73.87%",
+    "status": "down",
+    "uptime": "69.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "73.87%",
-    "uptimeYear": "73.87%",
+    "uptimeWeek": "69.92%",
+    "uptimeMonth": "69.92%",
+    "uptimeYear": "69.92%",
     "time": 1079,
     "timeDay": 1047,
     "timeWeek": 1079,
     "timeMonth": 1079,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 673
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -64,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 468,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
