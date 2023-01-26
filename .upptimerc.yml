@@ -29,7 +29,12 @@ sites:
   - name: Identity QA
     url: $IDENTITY_QA_URL
   - name: Innovation POC
-    url: $INNOVATION_POC_URL
+    url: $INNOVATION_POC_URL method: GET
+    method: GET
+    headers:
+      - "User-Agent: Mozilla/5.0"
+    expectedStatusCodes:
+      - 200
       
 # Config
 status-website:
