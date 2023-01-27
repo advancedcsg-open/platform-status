@@ -17,7 +17,7 @@ sites:
       
 # Config
 status-website:
-  baseUrl: /upptime
+  baseUrl: /platform-status
   logoUrl: https://cdn.svc.oneadvanced.com/mosaic/2.0.0/img/logo.svg
   favicon: https://www.oneadvanced.com/Static/img/icons/favicon-194x194.png
   name: Platform Status
