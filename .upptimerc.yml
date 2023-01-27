@@ -3,10 +3,6 @@ repo: platform-status
 
 # Sitelist
 sites:
-  - name: Advanced
-    url: https://oneadvanced.com
-    headers:
-      - "User-Agent: Mozilla/5.0"
   - name: Innovation POC
     url: $INNOVATION_POC_URL
     method: GET
