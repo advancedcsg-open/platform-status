@@ -1,29 +1,5 @@
 [
   {
-    "name": "Advanced",
-    "url": "https://oneadvanced.com",
-    "icon": "https://icons.duckduckgo.com/ip3/oneadvanced.com.ico",
-    "slug": "advanced",
-    "status": "up",
-    "uptime": "52.33%",
-    "uptimeDay": "8.66%",
-    "uptimeWeek": "44.67%",
-    "uptimeMonth": "52.33%",
-    "uptimeYear": "52.33%",
-    "time": 1008,
-    "timeDay": 993,
-    "timeWeek": 1016,
-    "timeMonth": 1008,
-    "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-01-27": 584,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 673
-    }
-  },
-  {
     "name": "Innovation POC",
     "url": "$INNOVATION_POC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -34,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1137,
-    "timeWeek": 1137,
-    "timeMonth": 1137,
-    "timeYear": 1137,
+    "time": 1155,
+    "timeDay": 1155,
+    "timeWeek": 1155,
+    "timeMonth": 1155,
+    "timeYear": 1155,
     "dailyMinutesDown": {}
   }
 ]
