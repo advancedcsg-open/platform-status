@@ -7,27 +7,6 @@ sites:
     url: https://oneadvanced.com
     headers:
       - "User-Agent: Mozilla/5.0"
-  - name: POC Canary (Known Failure)
-    url:  $CANARY_URL
-    method: GET
-    headers:
-      - "User-Agent: Mozilla/5.0"
-    expectedStatusCodes:
-      - 200
-  - name: POC Canary (Known Good)
-    url: $CANARY_URL_GOOD
-    method: GET
-    headers:
-      - "X-Api-Key: $CANARY_API_KEY_GOOD"
-      - "User-Agent: Mozilla/5.0"
-    expectedStatusCodes:
-      - 200
-  - name: Identity Prod
-    url: $IDENTITY_PROD_URL
-  - name: Identity Dev
-    url: $IDENTITY_DEV_URL
-  - name: Identity QA
-    url: $IDENTITY_QA_URL
   - name: Innovation POC
     url: $INNOVATION_POC_URL
     method: GET
