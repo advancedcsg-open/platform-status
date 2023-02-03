@@ -7,6 +7,17 @@ sites:
     url: https://oneadvanced.com
     headers:
       - "User-Agent: Mozilla/5.0"
+  - name: Identity Services (Production)
+    url: $IDENTITY_PROD
+    headers:
+      - "User-Agent: Mozilla/5.0"
+  - name: Identity Services Canary (Production)
+    url: $IDENTITY_PROD_CANARY
+    method: GET
+    headers:
+      - "User-Agent: Mozilla/5.0"
+    expectedStatusCodes:
+      - 200
   - name: Innovation POC
     url: $INNOVATION_POC_URL
     method: GET
