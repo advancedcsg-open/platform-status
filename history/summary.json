@@ -40,19 +40,19 @@
     "url": "$IDENTITY_PROD_CANARY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identity-services-canary-production",
-    "status": "down",
-    "uptime": "60.42%",
-    "uptimeDay": "60.42%",
-    "uptimeWeek": "60.42%",
-    "uptimeMonth": "60.42%",
-    "uptimeYear": "60.42%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "status": "up",
+    "uptime": "56.27%",
+    "uptimeDay": "56.27%",
+    "uptimeWeek": "56.27%",
+    "uptimeMonth": "56.27%",
+    "uptimeYear": "56.27%",
+    "time": 754,
+    "timeDay": 754,
+    "timeWeek": 754,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-02-03": 83
+      "2023-02-03": 99
     }
   },
   {
