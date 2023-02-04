@@ -1,7 +1,7 @@
 url: $IDENTITY_PROD_CANARY
-status: up
-code: 200
-responseTime: 1377
-lastUpdated: 2023-02-04T04:34:27.594Z
+status: down
+code: 404
+responseTime: 82
+lastUpdated: 2023-02-04T04:42:28.433Z
 startTime: Fri Feb 03 2023 17:05:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
