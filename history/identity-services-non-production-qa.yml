@@ -1,7 +1,7 @@
 url: $IDENTITY_NONPROD_QA_URL
 status: up
 code: 200
-responseTime: 602
-lastUpdated: 2023-03-10T23:01:53.818Z
+responseTime: 543
+lastUpdated: 2023-03-11T23:01:54.808Z
 startTime: Wed Feb 08 2023 16:21:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
