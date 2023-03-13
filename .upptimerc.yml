@@ -3,30 +3,19 @@ repo: platform-status
 
 # Sitelist
 sites:
-  - name: Advanced
-    url: https://oneadvanced.com
-    headers:
-      - "User-Agent: Mozilla/5.0"
-  - name: Identity Services (Production)
+  - name: Advanced SSO (Production)
     url: $IDENTITY_PROD
     headers:
       - "User-Agent: Mozilla/5.0"
-  - name: Identity Services (Non-Production)
+  - name: Advanced SSO (Module-Dev)
     url: $IDENTITY_NONPROD_URL
     headers:
       - "User-Agent: Mozilla/5.0"
-  - name: Identity Services (Non-Production - QA)
-    url: $IDENTITY_NONPROD_QA_URL
+  - name: MyWorkplace Login
+    url: $IDENTITY_PROD_CANARY
     headers:
       - "User-Agent: Mozilla/5.0"
-  - name: Innovation POC
-    url: $INNOVATION_POC_URL
-    method: GET
-    headers:
-      - "User-Agent: Mozilla/5.0"
-    expectedStatusCodes:
-      - 200
-      
+
 # Config
 status-website:
   baseUrl: /platform-status
