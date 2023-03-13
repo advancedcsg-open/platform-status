@@ -40,19 +40,19 @@
     "url": "$IDENTITY_PROD_CANARY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-workplace-login",
-    "status": "down",
-    "uptime": "52.42%",
-    "uptimeDay": "52.42%",
-    "uptimeWeek": "52.42%",
-    "uptimeMonth": "52.42%",
-    "uptimeYear": "52.42%",
-    "time": 742,
-    "timeDay": 742,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "49.02%",
+    "uptimeDay": "49.02%",
+    "uptimeWeek": "49.02%",
+    "uptimeMonth": "49.02%",
+    "uptimeYear": "49.02%",
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-03-13": 207
+      "2023-03-13": 237
     }
   }
 ]
