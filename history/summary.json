@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 495,
-    "timeWeek": 495,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 535,
+    "timeDay": 535,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "MyWorkplace Login",
-    "url": "$IDENTITY_PROD_CANARY",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "my-workplace-login",
-    "status": "up",
-    "uptime": "48.76%",
-    "uptimeDay": "48.76%",
-    "uptimeWeek": "48.76%",
-    "uptimeMonth": "48.76%",
-    "uptimeYear": "48.76%",
-    "time": 783,
-    "timeDay": 783,
-    "timeWeek": 783,
-    "timeMonth": 783,
-    "timeYear": 783,
-    "dailyMinutesDown": {
-      "2023-03-14": 334,
-      "2023-03-13": 320
-    }
   }
 ]
