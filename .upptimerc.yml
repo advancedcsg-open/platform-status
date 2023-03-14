@@ -11,10 +11,6 @@ sites:
     url: $IDENTITY_NONPROD_URL
     headers:
       - "User-Agent: Mozilla/5.0"
-  - name: MyWorkplace Login
-    url: $IDENTITY_PROD_CANARY
-    headers:
-      - "User-Agent: Mozilla/5.0"
 
 # Config
 status-website:
