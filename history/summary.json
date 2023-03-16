@@ -22,19 +22,19 @@
     "url": "$IDENTITY_NONPROD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "advanced-sso-module-dev",
-    "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
-    "time": 607,
-    "timeDay": 636,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 599,
+    "timeDay": 615,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-03-16": 99
+      "2023-03-16": 107
     }
   }
 ]
