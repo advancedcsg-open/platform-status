@@ -11,7 +11,14 @@ sites:
     url: $IDENTITY_NONPROD_URL
     headers:
       - "User-Agent: Mozilla/5.0"
-
+  - name: MyWorkplace Login (Production)
+    url: $MYWORKPLACE_PROD_URL
+    headers:
+      - "User-Agent: Mozilla/5.0"
+    expectedStatusCodes:
+      - 200
+      - 403
+    
 # Config
 status-website:
   baseUrl: /platform-status
