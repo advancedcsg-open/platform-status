@@ -1,7 +1,7 @@
 url: $IDENTITY_PROD
-status: down
-code: 502
-responseTime: 628
-lastUpdated: 2023-04-15T00:15:40.586Z
+status: up
+code: 200
+responseTime: 650
+lastUpdated: 2023-04-15T01:01:48.822Z
 startTime: Mon Mar 13 2023 12:47:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
