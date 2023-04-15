@@ -4,18 +4,20 @@
     "url": "$IDENTITY_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "advanced-sso-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 541,
-    "timeWeek": 614,
-    "timeMonth": 555,
-    "timeYear": 557,
-    "dailyMinutesDown": {}
+    "time": 559,
+    "timeDay": 585,
+    "timeWeek": 616,
+    "timeMonth": 557,
+    "timeYear": 559,
+    "dailyMinutesDown": {
+      "2023-04-15": 0
+    }
   },
   {
     "name": "Advanced SSO (Module-Dev)",
