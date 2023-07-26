@@ -4,9 +4,9 @@
     "url": "$IDENTITY_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "advanced-sso-production",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 264,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-04-17": 522,
       "2023-04-16": 1425,
       "2023-04-15": 46
