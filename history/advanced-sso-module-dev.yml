@@ -1,7 +1,7 @@
 url: $IDENTITY_NONPROD_URL
 status: up
 code: 200
-responseTime: 803
-lastUpdated: 2023-09-07T23:02:13.220Z
+responseTime: 464
+lastUpdated: 2023-09-08T23:02:06.130Z
 startTime: 2023-03-13T12:47:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
